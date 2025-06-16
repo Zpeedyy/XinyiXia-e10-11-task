@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+h2,h3
+{
+	
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin:20px;
+}
+h1
+{
+	
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin:20px;
+	font-size: 40px;
+}
+
+.cuerpo{
+	
+	background-image: url("Multimedia/Bg4.jpg");
+	
+    }
+.FondoListas{
+	
+	color: rgba(88,0,66,1.00); 
+	background-color:rgba(140,207,164,0.73);
+	padding: 20px;
+	margin:20px;
+	width:600px;
+	
+}
+
+.txtSinBg
+{
+	
+	color:navy;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color:rgba(234,130,206,0.65);
+	width: 500px;
+	
+}
+
+p{
+	
+	color:navy;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	line-height: 22px;
+	width: 600px;
+	background-color:rgba(140,207,164,0.73);
+	padding: 20px;
+	opacity: 50;
+	margin:20px;
+  }
+
+img{
+	
+	height:300px;
+	clip-path: circle(50%);
+	
+   }
+
+a {
+	
+	color:midnightblue;
+	font-size: 20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color:rgba(234,147,210,1.00);
+	padding: 9px;
+	line-height: 60px;
+	border:5px rgba(227,0,216,0.87);
+	border-style: outset;
+	border-radius: 10px;
+	margin:20px;
+	
+ }
+
+a:hover{
+	
+		background-color:darkorchid;
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		text-decoration-color: limegreen;
+		color:limegreen;
+	
+	   }
+
+mark
+{
+	
+	background-color:rgba(234,130,206,0.65);
+	
+}
+
+
+
